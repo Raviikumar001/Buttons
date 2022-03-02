@@ -1,9 +1,10 @@
 body{
-    background: #EDEDED;
+    background: #53488D;
 }
 
 button{
     margin-top: 50px;
+    margin-left: 25px;
 }
 .First{
     text-align: center;
@@ -19,4 +20,18 @@ button{
    border-radius: 4px;
 
 
+}
+
+.second{
+    padding:10px 30px;
+    background-color: #ccbdbd;
+    font: 500 16px sans-serif;
+    color:#027AD6;
+    border-radius: 8px 8px 8px 0px;
+}
+
+.second:hover,
+.second:active{
+    background-color:white ;
+    border-radius: 0px 0px 0px 0px ;
 }
