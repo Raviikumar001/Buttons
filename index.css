@@ -37,3 +37,18 @@ button{
     border-radius: 0px 0px 0px 0px ;
     cursor: pointer;
 }
+
+
+.third{
+    background: #212121;
+    padding: 15px 30px;
+    border: 2px solid #17C3B2;
+    font: 400 16px sans-serif;
+    color: #17C3B2;;
+}
+
+.third:active,
+.third:hover{
+    background:#17C3B2 ;
+    color: black;
+}
